@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# SRT Challenge
+An infinite-runner type game built at Westwood College around year 2006 in a handful of weeks using C++/DirectX from scratch.
 
-You can use the [editor on GitHub](https://github.com/Rev2106/SRTChallenge/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Screenshots
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![srtchallenge1](https://user-images.githubusercontent.com/7635112/120600572-c7227b00-c3fd-11eb-91b4-48e328eefe3d.jpg)
 
-### Markdown
+![srtchallenge2](https://user-images.githubusercontent.com/7635112/120600594-cb4e9880-c3fd-11eb-8b84-4f20c2750098.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rev2106/SRTChallenge/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![srtchallenge3](https://user-images.githubusercontent.com/7635112/120600609-d0abe300-c3fd-11eb-8fdf-3752e8077b68.jpg)
